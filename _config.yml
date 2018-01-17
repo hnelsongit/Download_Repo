@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Download_Repo"
+baseurl: "/"
 url: "https://hnelsongit.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
